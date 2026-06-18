@@ -13,8 +13,7 @@ SQL querying, and interactive dashboard development.
 ## 📂 Projects
 | Project | Description | Tools Used |
 |--------|-------------|------------|
-| Project 1 | Data Cleaning & Preparation | Excel |
-| Project 2 | Exploratory Data Analysis (EDA) | Excel |
+| Project 1 & 2 | Data Cleaning & Exploratory Data Analysis (EDA) | Excel |
 | Project 3 | SQL Analysis on E-commerce Orders Dataset | SQL Server, Azure Data Studio |
 | Project 4 | Interactive E-commerce Sales Dashboard | Power BI |
 
