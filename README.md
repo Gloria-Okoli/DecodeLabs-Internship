@@ -18,6 +18,9 @@ SQL querying, and interactive dashboard development.
 | Project 3 | SQL Analysis on E-commerce Orders Dataset | SQL Server, Azure Data Studio |
 | Project 4 | Interactive E-commerce Sales Dashboard | Power BI |
 
+## 📊 Dashboard Preview
+![Power BI Dashboard](dashboard_preview.png)
+
 ## 🚀 How to View
 - SQL files can be opened in **Azure Data Studio** or any SQL editor
 - Power BI files (.pbix) require **Power BI Desktop** (free download from Microsoft)
